@@ -1,0 +1,10 @@
+Considero que es fundamental llevar un registro de cambios en los proyectos de software porque 
+garantiza el control y la seguridad del trabajo realizado. Herramientas como Git permiten guardar 
+cada avance del proyecto, lo que evita perder información si ocurre un error básico como borrar un 
+archivo sin querer o dañar el código que sí funcionaba. Si algo sale mal, se puede volver a una 
+versión anterior sin empezar de cero. Además, facilitan el trabajo en equipo al permitir que varias 
+personas colaboren sin sobrescribir el trabajo de los demás por accidente. Tener un historial de 
+versiones ayuda a identificar cuándo se introdujo un bug y quién hizo cada modificación, lo que da 
+claridad al desarrollo. También funciona como respaldo en la nube, útil si el computador se daña o se 
+pierde el proyecto. En definitiva, usar Git aporta orden, trazabilidad y evita errores comunes que 
+retrasan el desarrollo.
